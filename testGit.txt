@@ -3,3 +3,6 @@ Git is free software under GPL
 Git is amazing
 Git has a mutable index called stage
 Git tracks changes
+Git merge with --no-ff
+test merge dev
+test forward move merge
