@@ -5,4 +5,5 @@ Git has a mutable index called stage
 Git tracks changes
 git diff
 add tag v1.0
-branch testing
+fix conflict
+
